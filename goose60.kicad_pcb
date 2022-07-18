@@ -3443,7 +3443,7 @@
 
   (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm" (layer "F.Cu")
     (tedit 5D9F72AF) (tstamp 90c161af-86c8-4ade-8073-1a234c136080)
-    (at 158.1514 192.2937)
+    (at 164.0586 187.9346)
     (descr "LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "LQFP QFP")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -4357,7 +4357,7 @@
 
   (footprint "dtsm:KSEM31GLFS" (layer "F.Cu")
     (tedit 56D0DB93) (tstamp b2d57972-e636-47b7-9cb5-4bd1976ab396)
-    (at 135.8688 196.5324)
+    (at 143.2814 189.484)
     (descr "http://www.dip.com.tw/PDF/DTSJW-6-V.pdf")
     (tags "microswitch tact")
     (property "Product" "TACTB-64K-F")
@@ -5958,7 +5958,7 @@
 
   (footprint "dtsm:KSEM31GLFS" (layer "F.Cu")
     (tedit 56D0DB93) (tstamp f79966a6-95fc-4050-93b8-561a39fa5ec1)
-    (at 130.992 213.1186)
+    (at 127.762 189.5602)
     (descr "http://www.dip.com.tw/PDF/DTSJW-6-V.pdf")
     (tags "microswitch tact")
     (property "Product" "TACTB-64K-F")
