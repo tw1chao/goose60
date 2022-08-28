@@ -3191,6 +3191,9 @@
     (path "/a91e1d94-3d93-4a93-b820-1f6e8519d9a9"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
     )
+    (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/d76631ca-fedf-4a6b-806b-11800e66eb13"
+      (reference "D2") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+    )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/7f975825-d130-413b-9ffc-6eff499a5c45"
       (reference "D4") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
     )
@@ -3497,8 +3500,14 @@
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/8264a6a7-093f-4891-992a-4ec4f7b7c26a"
       (reference "SW3") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
     )
+    (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/7360ba64-8200-40ce-9a01-7f0c441d12cb"
+      (reference "SW4") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
+    )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/7a03a7c9-69d1-423a-8925-317b6396ea19"
       (reference "SW5") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
+    )
+    (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/b4bc67cd-a9db-48f0-b810-a08903e84e57"
+      (reference "SW6") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
     )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/06121b71-af90-4e43-b5be-8acb0c34df94"
       (reference "SW7") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
