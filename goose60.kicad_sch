@@ -3191,9 +3191,6 @@
     (path "/a91e1d94-3d93-4a93-b820-1f6e8519d9a9"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
     )
-    (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/d76631ca-fedf-4a6b-806b-11800e66eb13"
-      (reference "D2") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
-    )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/7f975825-d130-413b-9ffc-6eff499a5c45"
       (reference "D4") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
     )
@@ -3356,9 +3353,6 @@
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/f3e7cba5-a223-494c-ab88-0f48644a8d07"
       (reference "D58") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
     )
-    (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/c7eb4e91-c5a2-4200-a3ba-2131386bcfff"
-      (reference "D59") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
-    )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/e4ef2851-55c1-4c23-af14-db02118bbc79"
       (reference "D60") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
     )
@@ -3367,9 +3361,6 @@
     )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/35bdce11-d1ac-4e3c-b017-5a9cb40bd2c1"
       (reference "D62") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
-    )
-    (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/0ea45bd5-e4a9-4872-a30e-67ee20b572c9"
-      (reference "D63") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
     )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/449bf2a8-ceff-42ca-98b5-26fc46f98974"
       (reference "D64") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
@@ -3500,14 +3491,8 @@
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/8264a6a7-093f-4891-992a-4ec4f7b7c26a"
       (reference "SW3") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
     )
-    (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/7360ba64-8200-40ce-9a01-7f0c441d12cb"
-      (reference "SW4") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
-    )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/7a03a7c9-69d1-423a-8925-317b6396ea19"
       (reference "SW5") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
-    )
-    (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/b4bc67cd-a9db-48f0-b810-a08903e84e57"
-      (reference "SW6") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
     )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/06121b71-af90-4e43-b5be-8acb0c34df94"
       (reference "SW7") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
@@ -3662,9 +3647,6 @@
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/f35bf35a-b9a5-402a-9aa6-b90b367baa98"
       (reference "SW68") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
     )
-    (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/ae7923af-0308-4423-8a4c-a6835fc40be8"
-      (reference "SW69") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
-    )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/8b7b0da2-b40f-4a27-9598-328d76c2ae0b"
       (reference "SW71") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
     )
@@ -3674,20 +3656,11 @@
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/bb439286-07ce-4980-88b0-d32d2ce14a7c"
       (reference "SW74") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
     )
-    (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/fc6d31b5-e44e-4385-9a6b-3de3f9005336"
-      (reference "SW75") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
-    )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/31048da0-58a6-4597-ab1f-c1d7ff885c95"
       (reference "SW76") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
     )
-    (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/2c6016cd-fc99-4734-b563-a76187fff9a0"
-      (reference "SW78") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
-    )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/658fea90-8dd1-4e4f-824c-fa3d5468c854"
       (reference "SW79") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
-    )
-    (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/bb8247a2-34d9-45f4-b50c-27d4e331768c"
-      (reference "SW80") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
     )
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/738c50af-f1d5-451b-9cbc-50ec999af28d"
       (reference "SW82") (unit 1) (value "SW_Push") (footprint "keyswitches:Kailh_socket_MX")
