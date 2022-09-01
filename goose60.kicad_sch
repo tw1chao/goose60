@@ -3170,9 +3170,6 @@
     (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/59366270-d046-4a8d-8a86-fa3f9d2a71fc"
       (reference "C8") (unit 1) (value "100nF/16v") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
-    (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/f33d1f7b-69f3-44d0-8d3e-63e68406121a"
-      (reference "C9") (unit 1) (value "10uF/16v") (footprint "Capacitor_SMD:C_0805_2012Metric")
-    )
     (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/c9bdc69b-046c-48e6-81b1-bae8188675f3"
       (reference "C10") (unit 1) (value "100uF/16v") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
@@ -3377,9 +3374,6 @@
     (path "/2ff232c2-3814-4300-ab91-e834dd2a1891/3e74703f-0813-47b8-af17-4ae43bcddec8"
       (reference "D68") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
     )
-    (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/e45f4eff-fcf1-42db-a4e4-d19097900666"
-      (reference "D70") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
-    )
     (path "/e5255316-baa4-4e6b-b2de-4b7fd45b19cb"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_TopOnly")
     )
@@ -3425,14 +3419,14 @@
     (path "/6a760a19-5869-4605-bfdf-467b2efd2302"
       (reference "R3") (unit 1) (value "330R/5%") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/58c52a8a-44f3-4097-86b6-0bb03693e54a"
-      (reference "R4") (unit 1) (value "240R/5%") (footprint "Resistor_SMD:R_0603_1608Metric")
+    (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/b97acc0f-7f81-461e-bc98-653b8b399826"
+      (reference "R4") (unit 1) (value "39K/5%") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/ffd8a55c-ebe3-49d3-8e38-b48450d53cd0"
-      (reference "R5") (unit 1) (value "820R/5%") (footprint "Resistor_SMD:R_0603_1608Metric")
+    (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/3e6d5c1b-249f-4eb0-a84c-67a00dd57fbf"
+      (reference "R5") (unit 1) (value "10K/5%") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/8fc35c16-fc9a-4e74-93e4-98f97ca6399b"
-      (reference "R6") (unit 1) (value "820R/5%") (footprint "Resistor_SMD:R_0603_1608Metric")
+    (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/e601a1ca-ea18-4ac2-932b-131526d69fb5"
+      (reference "R6") (unit 1) (value "100R/5%") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/62b6fb8f-6304-48f3-b35d-3d0f8813eb4a/916bb521-d79a-4258-8831-772571d1f9b5"
       (reference "R7") (unit 1) (value "10K/5%") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -3674,8 +3668,8 @@
     (path "/d81257b2-9fbc-4051-a479-ca456884464c"
       (reference "U1") (unit 1) (value "STM32F103CBTx") (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm")
     )
-    (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/6f4ee28b-1f04-460d-82cb-1beb8fd4998a"
-      (reference "U2") (unit 1) (value "LM317_SOT-223") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
+    (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/4b57b678-2229-4e53-8d50-a70ecc4267f1"
+      (reference "U2") (unit 1) (value "TLV75533PDBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/62b6fb8f-6304-48f3-b35d-3d0f8813eb4a/02f4a69c-a8eb-41e2-a8b9-07c4a3a2cf32"
       (reference "U3") (unit 1) (value "USBLC6-2SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
