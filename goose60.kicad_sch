@@ -3168,22 +3168,22 @@
       (reference "C7") (unit 1) (value "100nF/16V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/59366270-d046-4a8d-8a86-fa3f9d2a71fc"
-      (reference "C8") (unit 1) (value "100nF/16v") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C8") (unit 1) (value "100nF/16V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/c9bdc69b-046c-48e6-81b1-bae8188675f3"
-      (reference "C10") (unit 1) (value "100uF/16v") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C10") (unit 1) (value "100uF/16V") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/6bfc3026-825b-4595-81dc-f862b2691dba"
-      (reference "C11") (unit 1) (value "100nF/16v") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C11") (unit 1) (value "100nF/16V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/65cff0aa-500b-4d77-9f75-58621a900fa6"
-      (reference "C12") (unit 1) (value "100uF/16v") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C12") (unit 1) (value "100uF/16V") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/1a9cae96-17f7-4874-8a9b-5364435e82a2"
-      (reference "C13") (unit 1) (value "1uF/16v") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C13") (unit 1) (value "1uF/16V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/01ad3d1c-4e51-419d-9147-129ed3c97a58/88308b81-0f50-4174-aaec-d6a655aa152b"
-      (reference "C14") (unit 1) (value "1uF/16v") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C14") (unit 1) (value "1uF/16V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/a91e1d94-3d93-4a93-b820-1f6e8519d9a9"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
